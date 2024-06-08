@@ -1,0 +1,3 @@
+https://beautiful-soup-4.readthedocs.io/en/latest/
+
+read from here :  https://beautiful-soup-4.readthedocs.io/en/latest/#attributes
